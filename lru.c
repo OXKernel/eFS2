@@ -318,14 +318,10 @@ block_rtvl_t block_free_hash(hash_t *hash)
 // Driver program to test above functions
 int main()
 {
-  // Let cache can hold 4 pages
   queue_t* q = create_queue(/*dev*/0, /*nrOfFrames*/4);
 
-  // Let 10 different pages can be requested (pages to be
-  // referenced are numbered from 0 to 9
   hash_t* hash = create_hash(10);
 
-  // Let us refer pages 1, 2, 3, 1, 4, 5
   reference_page(q, hash, 1);
   reference_page(q, hash, 2);
   reference_page(q, hash, 3);
@@ -333,7 +329,6 @@ int main()
   reference_page(q, hash, 4);
   reference_page(q, hash, 5);
 
-  // Let us print cache frames after the above referenced pages
   printf("%d ", q->front->page_number);
   printf("%d ", q->front->next->page_number);
   printf("%d ", q->front->next->next->page_number);
