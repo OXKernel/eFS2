@@ -8,7 +8,7 @@
 //      This file includes all three.
 //
 // @author:
-//      Roger G. Doss, PhD
+//      Roger Doss, PhD
 //
 #ifndef _FS_SYSCALLS_H
 #define _FS_SYSCALLS_H

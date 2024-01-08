@@ -8,7 +8,7 @@
 //      can be arbitrary large.
 //
 // @author:
-//      Dr. Roger G. Doss, PhD
+//      Dr. Roger Doss, PhD
 //
 #include "bitmap.h"
 

@@ -6,7 +6,7 @@
 //      UNIX types for compilation.
 //
 // @author:
-//      Dr. Roger G. Doss, PhD
+//      Dr. Roger Doss, PhD
 //
 #ifndef _TYPES_H
 #define _TYPES_H

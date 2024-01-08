@@ -7,7 +7,7 @@
 //      This is based on our inode implementation.
 //
 // @author:
-//      Dr. Roger G. Doss, PhD
+//      Dr. Roger Doss, PhD
 //
 #include "bool.h"
 #include "paths.h"

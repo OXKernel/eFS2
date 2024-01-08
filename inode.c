@@ -9,7 +9,7 @@
 //      code.
 //
 // @author:
-//      Dr. Roger G. Doss, PhD
+//      Dr. Roger Doss, PhD
 //
 // TODO: - dev calls will not work as the interface has changed.
 //         DONE change dev_write to include the block

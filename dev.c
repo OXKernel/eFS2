@@ -11,7 +11,7 @@
 //      NOTE: This code was tested as part of testing block.c.
 //
 // @author:
-//      Dr. Roger G. Doss, PhD
+//      Dr. Roger Doss, PhD
 //
 #include "block.h"
 #include "dev.h"

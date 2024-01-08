@@ -7,7 +7,7 @@
 //      optimization.
 //
 // @author:
-//      Dr. Roger G. Doss, PhD
+//      Dr. Roger Doss, PhD
 //
 #ifndef _BLOCK_H
 #define _BLOCK_H

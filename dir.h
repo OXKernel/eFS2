@@ -7,7 +7,7 @@
 //      This is based on our inode implementation.
 //
 // @author:
-//      Dr. Roger G. Doss, PhD
+//      Dr. Roger Doss, PhD
 //
 #ifndef _DIR_H
 #define _DIR_H

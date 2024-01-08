@@ -9,7 +9,7 @@
 //      code.
 //
 // @author:
-//      Dr. Roger G. Doss, PhD
+//      Dr. Roger Doss, PhD
 //
 #ifndef _INODE_H
 #define _INODE_H

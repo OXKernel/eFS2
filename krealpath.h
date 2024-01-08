@@ -7,7 +7,7 @@
 //      path given a starting current_dir.
 //
 // @author:
-//      Dr. Roger G. Doss, PhD
+//      Dr. Roger Doss, PhD
 //
 #ifndef _KREALPATH_H
 #define _KREALPATH_H

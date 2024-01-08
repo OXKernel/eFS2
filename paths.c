@@ -6,7 +6,7 @@
 //      Utility routines for handling paths.
 //
 // @author:
-//      Dr. Roger G. Doss
+//      Dr. Roger Doss
 //
 #include "paths.h"
 

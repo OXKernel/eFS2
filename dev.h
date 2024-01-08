@@ -9,7 +9,7 @@
 //      via a driver.
 //
 // @author:
-//      Dr. Roger G. Doss, PhD
+//      Dr. Roger Doss, PhD
 //
 #ifndef _DEV_H
 #define _DEV_H

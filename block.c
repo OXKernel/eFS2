@@ -13,7 +13,7 @@
 //      hard disk.
 //
 // @author:
-//      Dr. Roger G. Doss, PhD
+//      Dr. Roger Doss, PhD
 //
 #include "block.h"
 #include "lru.h"

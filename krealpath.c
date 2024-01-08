@@ -7,7 +7,7 @@
 //      path given a starting current_dir.
 //
 // @author:
-//      Dr. Roger G. Doss, PhD
+//      Dr. Roger Doss, PhD
 
 //
 // For testing, we use integer paths from 0 to n-1

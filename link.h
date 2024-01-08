@@ -7,7 +7,7 @@
 //      and hardlinks.
 //
 // @author:
-//      Dr. Roger G. Doss, PhD
+//      Dr. Roger Doss, PhD
 //
 #ifndef _LINK_H
 #define _LINK_H

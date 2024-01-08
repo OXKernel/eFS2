@@ -6,7 +6,7 @@
 //      Utility routines for handling paths.
 //
 // @author:
-//      Dr. Roger G. Doss
+//      Dr. Roger Doss
 //
 #ifndef _PATHS_H
 #define _PATHS_H

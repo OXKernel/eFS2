@@ -8,7 +8,7 @@
 //      can be arbitrary large.
 //
 // @author:
-//      Dr. Roger G. Doss, PhD
+//      Dr. Roger Doss, PhD
 //
 #ifndef _BITMAP_H
 #define _BITMAP_H
