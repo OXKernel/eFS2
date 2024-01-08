@@ -1,3 +1,13 @@
+// 
+// @file:
+//  lru.h
+//
+// @description:
+//  Implements LRU cache for eFS.
+//
+// @author:
+//  Dr. Roger Doss
+//
 // REFERENCES:
 // https://www.geeksforgeeks.org/lru-cache-implementation/
 //
